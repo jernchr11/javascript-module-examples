@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@types/lodash-es": "^4.17.12",
+    "comlink": "^4.4.1",
+    "lodash-es": "^4.17.21"
+  },
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
